@@ -1,11 +1,9 @@
-# curiously-with-the-comma
-
-## prototype of the cards on quizlet (pdf coming soon... after finals...)
+# prototype of the cards on quizlet (pdf coming soon... after finals...)
 https://quizlet.com/1166910440/curiously-the-prototype-flash-cards/?i=6fm3iz&x=1jqt
 
 unfortunately, the set above is not updated. there is a physical version of the set i have been walking around with, but have yet to upload those :(
 
-curiously, (with the comma)
+# curiously, (with the comma)
 
 a social card game with just enough structure to force you out your comfort-zone, but enough freedom to make every game new!
 
@@ -13,7 +11,7 @@ hi! i'm yen, and i love getting to know people, but i'm not the most observant p
 
 to my friends, i would always ask random questions and preemptively defend it with "i'm just curious," and i realized that curiosity drives me to connect with people. the questions i had were purely because i wanted to know, and i hoped others would be just as curious in their own niche. before i added the ask or skip mechanic, i felt like i couldn't ask questions that required more vulnerability, and i noticed others tended to skip those questions as well. i remember asking one of the friends i had been playing the questions through with to create their own questions too. all of these pieces culminated to "curiously," which i'm more than excited to present here. thank you for checking out my work, even if it's not the super advanced neuroscience stuff. without further ado, here is "curiously," 
 
-## how to play and rules
+# how to play and rules
 
 this is meant to be played by 2 people. you could play it with as many people as you'd like, but why would you do more than 2?
 
